@@ -82,7 +82,7 @@ table1 {
     font-weight: bold;
     margin: 0px auto;
 }
-table1,th {
+table1 th {
     color: red;
     background-image: url(image/texture.jpg);
       background-position: center;
@@ -91,7 +91,7 @@ table1,th {
     
 
 }
-table1,td {
+table1 td {
     background-color: rgb(115, 161, 115);
     
 

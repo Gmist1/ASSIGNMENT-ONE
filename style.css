@@ -1,5 +1,4 @@
 body{
-    margin: 10px;
     background-size: cover;
     background-position: center;
     max-width: 95vw;
@@ -8,7 +7,6 @@ body{
     background-color: rgb(204, 152, 152);
     text-align: center;
     margin: 1em 5em;
-    
 }
 
 
@@ -18,7 +16,6 @@ body{
     border-radius: 50%;
 }
 #nav{
-    background-color: white;
     display: flex;
     border: solid white 1px;
     border-radius: 1.5em;
